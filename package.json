@@ -5,7 +5,7 @@
   "homepage": "https://pawelszopinski.github.io/icecream-team-goit/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /projekt-grupa-4/"
+    "build": "parcel build src/*.html --public-url /icecream-team-goit/"
   },
   "repository": {
     "type": "git",
